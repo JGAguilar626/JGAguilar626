@@ -20,7 +20,7 @@ I know core Java really well. I have a basic understanding of Spring and how to 
 - 🇺🇸 I grew-up in El Monte, CA, and went to school at UC Santa Cruz. 🐌
 - 🚙 I built-out a van in which I travelled to Arizona, New Mexico, Texas, Oklahoma, and Nevada. 
 - ⛹️‍♂️ I used to play basketball all the time! I miss it!
-- 💰 I don't survive, I THRIVE on only about $20K a year, so if you offer me a $100K+ job you can bet your butt that I am going to be in the office all day and night cooking-up some good software!
+
 - ⚡Fun Facts!:
   - I can't swim! 🏊‍♂️ 💀
   - I'm horrible at anything artistic (dancing, singing, drawing). 🙅‍♂️
