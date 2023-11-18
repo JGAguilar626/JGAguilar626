@@ -8,6 +8,12 @@ Creates a virtual Amazon Sortable FC, allowing the user to count inventory via t
 
 -----
 
+**amazon-ship-dock-staffing-workbook**
+
+This project consists of a Microsoft Excel workbook that can be used by Amazon Ship Dock department leadership to plan and visualize labor allocation.
+
+-----
+
 **my-java-textbook-contributions**
 
 175 suggestions and corrections pertaining to the textbook Introduction to Java: Programming and Data Structures (12th. Ed, Comprehensive Version).
