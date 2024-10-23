@@ -1,5 +1,5 @@
 # Halloooo! 👋
-I'm Jose. I currently work as a warehouse associate for Amazon in San Diego, CA. I'm going to begin applying for my first tech role soon, so if you want to offer me an interview, internship, job or just want to know more, feel free to contact me @ josegaguilar626@gmail.com
+I'm Jose. I currently work as a warehouse associate for Amazon in Fontana, CA.
 
 ## Projects
 **amazon-warehouse-simulator**
