@@ -1,5 +1,5 @@
 # Halloooo! 👋
-I'm Jose. I currently work as a warehouse associate for Amazon in Fontana, CA.
+I'm Jose. I currently work as a warehouse associate for Amazon in San Diego, CA.
 
 ## Projects
 **amazon-warehouse-simulator**
